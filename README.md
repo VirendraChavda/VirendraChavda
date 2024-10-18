@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Virendrainh Chavda and I am pursuing MSc in Data Science at the University of Essex. I have 1.5 years of experience in data science and machine learning, and 4.5 years of experience in manufacturing. 
+- 👋 Hi, I’m @Virendrainh Chavda and I am pursuing MSc in Data Science at the University of Essex. I have 2+ years of experience in data science and machine learning, and 4.5 years of experience in manufacturing. 
 - 👀 I’m interested in roles as a data scientist where I can develop more skills and contribute towards the organisational goals. 
 - 🌱 I’m currently working on Bitcoin hourly rate prediction using live Bitcoin data and sentiment analysis from reddit. 
 - 💞️ I’m looking to collaborate on challenging NLP and computer vision projects.
