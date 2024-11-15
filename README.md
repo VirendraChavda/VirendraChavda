@@ -1,9 +1,48 @@
-- 👋 Hi, I’m @Virendrainh Chavda and I am pursuing MSc in Data Science at the University of Essex. I have 2+ years of experience in data science and machine learning, and 4.5 years of experience in manufacturing. 
-- 👀 I’m interested in roles as a data scientist where I can develop more skills and contribute towards the organisational goals. 
-- 🌱 I’m currently working on Bitcoin hourly rate prediction using live Bitcoin data and sentiment analysis from reddit. 
-- 💞️ I’m looking to collaborate on challenging NLP and computer vision projects.
-- 📫 How to reach me ... virendrasinh.chavda01@yahoo.in
-- 😄 Pronouns: ...He/Him
+# 👋 Hi, I’m Virendrasinh Chavda
+
+<p align="justify">
+I am a passionate **Data Scientist** with over 2 years of experience in machine learning, AI deployment, and data analysis, along with 4+ years in design and engineering roles. I am currently pursuing my **MSc in Data Science** at the University of Essex, where I specialize in building scalable AI solutions and crafting innovative projects using **Generative AI**, **Deep Learning**, and **Machine Learning** techniques.
+</p>
+
+## About Me:
+- 👀 **Interests**: I’m deeply interested in roles involving AI and machine learning, where I can harness the power of **Generative AI**, **Time Series Analysis**, and **MLOps** to create impactful solutions.
+- 🌱 **Current Work**: I’m working on predictive analytics projects, including **predictive maintenance systems** and **AI-powered tools** for automated decision-making.
+- 💡 **Collaboration**: I’m looking to collaborate on exciting projects in **Generative AI**, **NLP**, **Computer Vision**, and **Cloud AI Integration**.
+- 💼 **Portfolio**: [My Portfolio](https://virendrachavda.github.io/folio/) showcases my recent projects and achievements.
+
+## Featured Skills:
+- **Programming**: Python, SQL, R
+- **Frameworks**: TensorFlow, PyTorch, FastAPI, React.js
+- **Cloud**: Google Cloud Platform (GCP), AWS
+- **Visualization**: Power BI, Tableau, Streamlit
+- **Domains**: Predictive Modeling, GenAI, MLOps, Deep Learning, NLP
+
+## 🚀 Projects:
+1. **Predictive Maintenance for Manufacturing Equipment**  
+   - Built a real-time predictive maintenance system reducing downtime by 20% for 50+ manufacturing machines.  
+   - **Tech Stack**: FastAPI, Docker, Kubernetes, GCP, React.js
+
+2. **AI-Powered Error Detection for Drawings**  
+   - Reduced QC time by 40% using YOLOv8 for detecting errors in manufacturing drawings.  
+   - **Tech Stack**: React.js, Material-UI, FastAPI, GCP
+
+3. **Web-Based AI PDF Translator**  
+   - Developed a translator using the Gemini model, boosting content creation efficiency by 60%.  
+   - **Tech Stack**: Docker, GCP, Kubernetes, FastAPI
+
+4. **Interactive Dashboard for UK Higher Education Analysis**  
+   - Deployed a secure Streamlit dashboard for analyzing HESA financial data.  
+   - **Tech Stack**: GCP, BigQuery, Streamlit
+
+## 📫 Get in Touch:
+- **Email**: [virendrasinh.chavda01@yahoo.in](mailto:virendrasinh.chavda01@yahoo.in)  
+- **LinkedIn**: [linkedin.com/in/vc-ds](https://www.linkedin.com/in/vc-ds)  
+- **GitHub**: [github.com/VirendraChavda](https://github.com/VirendraChavda)
+
+## Fun Fact:
+- 🏆 I have received the **Star Performer of the Month** award 3 times for successfully applying AI solutions to enhance manufacturing workflows.
+
+😄 Pronouns: He/Him
 
 <!---
 VirendraChavda/VirendraChavda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
