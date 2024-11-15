@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Virendrasinh Chavda
 
 <p align="justify">
-I am a passionate **Data Scientist** with over 2 years of experience in machine learning, AI deployment, and data analysis, along with 4+ years in design and engineering roles. I am currently pursuing my **MSc in Data Science** at the University of Essex, where I specialize in building scalable AI solutions and crafting innovative projects using **Generative AI**, **Deep Learning**, and **Machine Learning** techniques.
+I am a passionate **Data Scientist** with over 2 years of experience in machine learning, AI deployment, and data analysis, along with 4+ years in design and engineering roles. My expertise lies in developing predictive models, designing AI-powered systems, and deploying scalable solutions. I have undertaken impactful projects such as **predictive maintenance systems**, **AI-driven chatbots**, **interactive dashboards**, and **Generative AI tools**, showcasing my ability to transform complex data into actionable insights. I specialize in **Machine Learning**, **Deep Learning**, **Generative AI**, and **Time Series Forecasting** to solve real-world challenges and drive innovation.
+
 </p>
 
 ## About Me:
@@ -9,6 +10,7 @@ I am a passionate **Data Scientist** with over 2 years of experience in machine 
 - 🌱 **Current Work**: I’m working on predictive analytics projects, including **predictive maintenance systems** and **AI-powered tools** for automated decision-making.
 - 💡 **Collaboration**: I’m looking to collaborate on exciting projects in **Generative AI**, **NLP**, **Computer Vision**, and **Cloud AI Integration**.
 - 💼 **Portfolio**: [My Portfolio](https://virendrachavda.github.io/folio/) showcases my recent projects and achievements.
+- 🙂 Pronouns: He/Him
 
 ## Featured Skills:
 - **Programming**: Python, SQL, R
@@ -41,8 +43,6 @@ I am a passionate **Data Scientist** with over 2 years of experience in machine 
 
 ## Fun Fact:
 - 🏆 I have received the **Star Performer of the Month** award 3 times for successfully applying AI solutions to enhance manufacturing workflows.
-
-😄 Pronouns: He/Him
 
 <!---
 VirendraChavda/VirendraChavda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
