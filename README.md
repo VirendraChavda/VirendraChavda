@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Virendrasinh Chavda
 
 <p align="justify">
-I am a passionate **Data Scientist** with over 2 years of experience in machine learning, AI deployment, and data analysis, along with 4+ years in design and engineering roles. My expertise lies in developing predictive models, designing AI-powered systems, and deploying scalable solutions. I have undertaken impactful projects such as **predictive maintenance systems**, **AI-driven chatbots**, **interactive dashboards**, and **Generative AI tools**, showcasing my ability to transform complex data into actionable insights. I specialize in **Machine Learning**, **Deep Learning**, **Generative AI**, and **Time Series Forecasting** to solve real-world challenges and drive innovation.
+I am a passionate <strong> Data Scientist</strong>  with over 2 years of experience in machine learning, AI deployment, and data analysis, along with 4+ years in design and engineering roles. My expertise lies in developing predictive models, designing AI-powered systems, and deploying scalable solutions. I have undertaken impactful projects such as **predictive maintenance systems**, **AI-driven chatbots**, **interactive dashboards**, and **Generative AI tools**, showcasing my ability to transform complex data into actionable insights. I specialize in **Machine Learning**, **Deep Learning**, **Generative AI**, and **Time Series Forecasting** to solve real-world challenges and drive innovation.
 
 </p>
 
