@@ -1,48 +1,48 @@
 # 👋 Hi, I’m Virendrasinh Chavda
 
 <p align="justify">
-I am a passionate <strong> Data Scientist</strong>  with over 2 years of experience in machine learning, AI deployment, and data analysis, along with 4+ years in design and engineering roles. My expertise lies in developing predictive models, designing AI-powered systems, and deploying scalable solutions. I have undertaken impactful projects such as **predictive maintenance systems**, **AI-driven chatbots**, **interactive dashboards**, and **Generative AI tools**, showcasing my ability to transform complex data into actionable insights. I specialize in **Machine Learning**, **Deep Learning**, **Generative AI**, and **Time Series Forecasting** to solve real-world challenges and drive innovation.
+I am a passionate <strong> Data Scientist</strong>  with over 2 years of experience in machine learning, AI deployment, and data analysis, along with 4+ years in design and engineering roles. My expertise lies in developing predictive models, designing AI-powered systems, and deploying scalable solutions. I have undertaken impactful projects such as <strong> predictive maintenance systems</strong> , <strong> AI-driven chatbots</strong> , <strong> interactive dashboards</strong> , and <strong> Generative AI tools</strong> , showcasing my ability to transform complex data into actionable insights. I specialize in <strong>Machine Learning</strong> , <strong>Deep Learning</strong>, <strong>Generative AI</strong>strong>, and <strong>Time Series Forecasting</strong>strong> to solve real-world challenges and drive innovation.
 
 </p>
 
 ## About Me:
-- 👀 **Interests**: I’m deeply interested in roles involving AI and machine learning, where I can harness the power of **Generative AI**, **Time Series Analysis**, and **MLOps** to create impactful solutions.
-- 🌱 **Current Work**: I’m working on predictive analytics projects, including **predictive maintenance systems** and **AI-powered tools** for automated decision-making.
-- 💡 **Collaboration**: I’m looking to collaborate on exciting projects in **Generative AI**, **NLP**, **Computer Vision**, and **Cloud AI Integration**.
-- 💼 **Portfolio**: [My Portfolio](https://virendrachavda.github.io/folio/) showcases my recent projects and achievements.
-- 🙂 Pronouns: He/Him
+- 👀 <strong>Interests</strong>: I’m deeply interested in roles involving AI and machine learning, where I can harness the power of <strong>Generative AI</strong>, <strong>Time Series Analysis</strong>, and <strong>MLOps</strong> to create impactful solutions.
+- 🌱 <strong>Current Work</strong>: I’m working on predictive analytics projects, including <strong>predictive maintenance systems</strong> and <strong>AI-powered tools</strong> for automated decision-making.
+- 💡 <strong>Collaboration</strong>: I’m looking to collaborate on exciting projects in <strong>Generative AI</strong>, <strong>NLP</strong>, <strong>Computer Vision</strong>, and <strong>Cloud AI Integration</strong>.
+- 💼 <strong>Portfolio</strong>: [My Portfolio](https://virendrachavda.github.io/folio/) showcases my recent projects and achievements.
+- 🙂 <strong>Pronouns</strong>: He/Him
 
 ## Featured Skills:
-- **Programming**: Python, SQL, R
-- **Frameworks**: TensorFlow, PyTorch, FastAPI, React.js
-- **Cloud**: Google Cloud Platform (GCP), AWS
-- **Visualization**: Power BI, Tableau, Streamlit
-- **Domains**: Predictive Modeling, GenAI, MLOps, Deep Learning, NLP
+- <strong>Programming</strong>: Python, SQL, R
+- <strong>Frameworks</strong>: TensorFlow, PyTorch, FastAPI, React.js
+- <strong>Cloud</strong>: Google Cloud Platform (GCP), AWS
+- <strong>Visualization</strong>: Power BI, Tableau, Streamlit
+- <strong>Domains</strong>: Predictive Modeling, GenAI, MLOps, Deep Learning, NLP
 
 ## 🚀 Projects:
-1. **Predictive Maintenance for Manufacturing Equipment**  
+1. <strong>Predictive Maintenance for Manufacturing Equipment</strong>  
    - Built a real-time predictive maintenance system reducing downtime by 20% for 50+ manufacturing machines.  
-   - **Tech Stack**: FastAPI, Docker, Kubernetes, GCP, React.js
+   - <strong>Tech Stack</strong>: FastAPI, Docker, Kubernetes, GCP, React.js
 
-2. **AI-Powered Error Detection for Drawings**  
+2. <strong>AI-Powered Error Detection for Drawings</strong>  
    - Reduced QC time by 40% using YOLOv8 for detecting errors in manufacturing drawings.  
-   - **Tech Stack**: React.js, Material-UI, FastAPI, GCP
+   - <strong>Tech Stack</strong>: React.js, Material-UI, FastAPI, GCP
 
-3. **Web-Based AI PDF Translator**  
+3. <strong>Web-Based AI PDF Translator</strong>  
    - Developed a translator using the Gemini model, boosting content creation efficiency by 60%.  
-   - **Tech Stack**: Docker, GCP, Kubernetes, FastAPI
+   - <strong>Tech Stack</strong>: Docker, GCP, Kubernetes, FastAPI
 
-4. **Interactive Dashboard for UK Higher Education Analysis**  
+4. <strong>Interactive Dashboard for UK Higher Education Analysis</strong>  
    - Deployed a secure Streamlit dashboard for analyzing HESA financial data.  
-   - **Tech Stack**: GCP, BigQuery, Streamlit
+   - <strong>Tech Stack</strong>: GCP, BigQuery, Streamlit
 
 ## 📫 Get in Touch:
-- **Email**: [virendrasinh.chavda01@yahoo.in](mailto:virendrasinh.chavda01@yahoo.in)  
-- **LinkedIn**: [linkedin.com/in/vc-ds](https://www.linkedin.com/in/vc-ds)  
-- **GitHub**: [github.com/VirendraChavda](https://github.com/VirendraChavda)
+- <strong>Email</strong>: [virendrasinh.chavda01@yahoo.in](mailto:virendrasinh.chavda01@yahoo.in)  
+- <strong>LinkedIn</strong>: [linkedin.com/in/vc-ds](https://www.linkedin.com/in/vc-ds)  
+- <strong>GitHub</strong>: [github.com/VirendraChavda](https://github.com/VirendraChavda)
 
 ## Fun Fact:
-- 🏆 I have received the **Star Performer of the Month** award 3 times for successfully applying AI solutions to enhance manufacturing workflows.
+- 🏆 I have received the <strong>Star Performer of the Month<strong> award 3 times for successfully applying AI solutions to enhance manufacturing workflows.
 
 <!---
 VirendraChavda/VirendraChavda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
