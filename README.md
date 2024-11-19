@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Virendrasinh Chavda
 
-I am a results-oriented **Data Scientist** and **AI Specialist** with over 2 years of experience in leveraging advanced machine learning, deep learning, and generative AI techniques to deliver innovative solutions. My expertise spans **Statistical Analysis**, **Time-Series Forecasting**, **Computer Vision**, **NLP**, and scalable **AI deployment**. I thrive on crafting impactful data-driven applications that bridge the gap between complex analytics and actionable insights. From building real-time predictive models to designing AI-driven tools and dashboards, my work highlights a unique ability to combine creativity with technical proficiency.
+I am a **Data Scientist** and **AI Specialist** with over 2 years of experience in leveraging advanced machine learning, deep learning, and generative AI techniques to deliver innovative solutions. My expertise spans **Statistical Analysis**, **Time-Series Forecasting**, **Computer Vision**, **NLP**, and scalable **AI deployment**. I thrive on crafting impactful data-driven applications that bridge the gap between complex analytics and actionable insights. From building real-time predictive models to designing AI-driven tools and dashboards, my work highlights a unique ability to combine creativity with technical proficiency.
 
 ---
 
